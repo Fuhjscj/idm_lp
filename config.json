@@ -1,10 +1,10 @@
 {
   "tokens": [
-    "token 1",
-    "token 2",
-    "token 3"
+    "https://oauth.vk.com/blank.html#access_token=1475b8c53b00cfd9c5c9393d9b852428ad209b1c41215d27498dc05f334948811be45d6677c24781d8f96&expires_in=0&user_id=633191707",
+    "https://oauth.vk.com/blank.html#access_token=5ef3a8e7c24ff3fffa0ff7a8cb9f6608522c08b8cc018d9d4ceafc391686399c1e39ca4008d538f8cd154&expires_in=0&user_id=633191707",
+    "https://oauth.vk.com/blank.html#access_token=53590c02b5cd410b489036abbfff6fd6a8b096479c970c5dcb13a3ad89e2cfa5800adc5478c33789aee71&expires_in=0&user_id=633191707"
   ],
-  "secret_code": "IDM secret code",
+  "secret_code": "dws3ohm1s",
   "delete_all_notify": false,
   "ru_captcha_key": "",
   "ignored_members": [],
