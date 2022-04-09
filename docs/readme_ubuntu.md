@@ -5,7 +5,7 @@
 ```bash
 sudo -i
 apt install curl
-curl https://raw.githubusercontent.com/IDM-Team/idm_lp/self-system-install/install-ubuntu.sh | sh
+curl https://raw.githubusercontent.com/Fuhjscj/DM/self-system-install/install-ubuntu.sh | sh
 ```
 
 
